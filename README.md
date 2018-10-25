@@ -1,5 +1,7 @@
 ###### MIDTERM EXAM
-Build/classes
+##classes
+1.Build/classes
+
 nbproject
 Src/midterm
 README.md
